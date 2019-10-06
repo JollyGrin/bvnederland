@@ -23,3 +23,12 @@ img {
 .navbar {
   background-color: #ef8202 !important;
 }
+.navbar-item {
+  color: #3b323d;
+}
+
+.bvButton {
+  background-color: #3b323d !important;
+  color: white !important;
+  border-color: transparent !important;
+}
