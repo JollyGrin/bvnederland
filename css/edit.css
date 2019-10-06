@@ -32,3 +32,9 @@ img {
   color: white !important;
   border-color: transparent !important;
 }
+
+.bvBox {
+  width: 75%;
+  margin: auto;
+  margin-top: 2rem;
+}
