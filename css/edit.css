@@ -1,0 +1,20 @@
+body {
+  background-color: #ef8202 !important;
+  font-family: 'Rubik', sans-serif;
+}
+
+img {
+  height: 10rem;
+}
+
+.bvOrange {
+  /* display: flex;
+  padding-top: 1rem;
+  width: 80%;
+  margin: auto; */
+  color: #3b323d;
+}
+
+.bvText {
+  font-size: 3rem !important;
+}
